@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Faclok
-- ♥ I love Unity. 
+### Languages and Tools:
 
-<!---
-Faclok/Faclok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity#d&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=Csharp&logoColor=success)
+
+### Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pofig_na_teba)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
