@@ -24,7 +24,8 @@
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=Visual%20Studio&logoColor=8400f0)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity#d&logoColor=E5D3FF)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=E5D3FF)
+![WebRTC](https://img.shields.io/badge/-WebRTC-090909?style=for-the-badge&logo=WebRTC)
 
 ### Socials:
 
